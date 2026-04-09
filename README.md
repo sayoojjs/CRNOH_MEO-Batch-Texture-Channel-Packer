@@ -1,17 +1,3 @@
-```
-##################################################
-#  ________         _____  ____________________  #
-# /   __   \______ /  _  \ \_   _____/\______  \ #
-# \____    /  ___//  /_\  \ |    __)_     /    / #
-#    /    /\___ \/    |    \|        \   /    /  #
-#   /____//____  >____|__  /_______  /  /____/   #
-#              \/        \/        \/            #
-##################################################
-#      CRNOH/MEO Texture Channel Packer 1.0      #
-#     written by 9sAE7 — github.com/sayoojjs     #
-##################################################
-```
-
 # CRNOH / MEO Texture Channel Packer
 
 A batch texture channel packing tool for **Unreal Engine 5** material workflows. Drop your raw texture maps in a folder, run the script, and get packed `.TGA` files ready to import — no manual Photoshop channel work needed.
