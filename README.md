@@ -115,11 +115,11 @@ pip install -r requirements.txt
 python CRNOH-MEO_Texture_Channel_Packer.py
 pause
 ```
-**Step B — Python script directly:**
+**Step B — Running Python script:**
 ```
-python CRNOHPacker.py
+python CRNOH-MEO_Texture_Channel_Packer.py
 ```
-
+***Or double-click and open the CRNOH-MEO_Texture_Channel_Packer.py from the working directory***
 ## Dependencies
 
 ```
