@@ -18,8 +18,9 @@ def show_banner():
 #   /____//____  >____|__  /_______  /  /____/   #
 #              \/        \/        \/            #
 ##################################################
-#  CRNOH/MEO Texture Packer 1.0 written by 9sAE7 
-#      Github: https://github.com/sayoojjs
+#   CRNOH/MEO Batch Texture Channel Packer 1.0   # 
+#     written by 9sAE7 — github.com/sayoojjs     #
+##################################################
 """ + RESET)
 
 #-----------TEXTURE DETECTION CHECK----------------
