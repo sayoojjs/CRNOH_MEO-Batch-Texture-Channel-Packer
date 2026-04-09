@@ -320,7 +320,7 @@ if __name__ == "__main__" :
   check_for_valid_textures(input_folder)
 
   os.makedirs(root_output, exist_ok=True)
-  print(LIGHT_WHITE + UNDERLINE + f"NOTE - Directory have been created for this batch '{input_folder}\PackedTextures'" + RESET)
+  print(LIGHT_WHITE + UNDERLINE + f"NOTE - Directory has been created for this batch '{input_folder}\PackedTextures'" + RESET)
 
   # ── CR ──────────────────────────────────────────────────────────────────────
   print(ORANGE + r""" 
