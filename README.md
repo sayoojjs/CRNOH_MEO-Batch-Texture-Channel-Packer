@@ -93,9 +93,9 @@ Packed textures are saved under a `PackedTextures/` folder created automatically
 python CRNOHPacker.py
 ```
 
-**Option B — Double-click `run.bat`** (recommended for sharing):
+**Option B — Double-click `install_dependencies.bat`** (recommended for sharing):
 
-Create a `run.bat` in the same folder:
+Create a `install_dependencies.bat` in the same folder:
 ```bat
 @echo off
 
@@ -116,20 +116,10 @@ if %errorlevel% neq 0 (
 )
 
 pip install -r requirements.txt
-python CRNOHPacker.py
+python CRNOH-MEO_Texture_Channel_Packer.py
 pause
 ```
 
-**Option C — Standalone `.exe`** (no Python needed on target machine):
-
-Build once on your machine:
-```
-pip install pyinstaller
-python -m PyInstaller --onefile CRNOHPacker.py
-```
-The `.exe` will be in the `dist/` folder. Copy it next to your textures and run it — no install required.
-
----
 
 ## Dependencies
 
