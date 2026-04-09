@@ -7,8 +7,8 @@
 #   /____//____  >____|__  /_______  /  /____/   #
 #              \/        \/        \/            #
 ##################################################
-#  CRNOH/MEO Texture Channel Packer 1.0          #
-#  written by 9sAE7 — github.com/sayoojjs        #
+#      CRNOH/MEO Texture Channel Packer 1.0      #
+#     written by 9sAE7 — github.com/sayoojjs     #
 ##################################################
 ```
 
@@ -90,6 +90,8 @@ Packed textures are saved under a `PackedTextures/` folder created automatically
 
 
 **Step A — Double-click `install_dependencies.bat`** (recommended for sharing):
+
+**OR**
 
 Create a `install_dependencies.bat` in the same folder:
 ```bat
