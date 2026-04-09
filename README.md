@@ -18,8 +18,7 @@ A batch texture channel packing tool for **Unreal Engine 5** material workflows.
 
 ---
 
-<img width="1077" height="603" alt="image" src="https://github.com/user-attachments/assets/4e05cd9c-8ccb-46e4-87e2-963432af6dbc" />
-
+<img width="1080" height="599" alt="image" src="https://github.com/user-attachments/assets/f78621dd-3c17-4b99-a635-2462358756ca" />
 
 ## What It Does
 
