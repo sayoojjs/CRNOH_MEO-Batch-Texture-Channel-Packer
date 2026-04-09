@@ -38,7 +38,7 @@ Place your textures in the **same folder** as the script. Textures must follow t
 
 ```
 📁 YourTextureFolder
- ├── CRNOHPacker.py
+ ├── CRNOH-MEO_Texture_Channel_Packer.py
  ├── Rock_basecolor.png
  ├── Rock_roughness.png
  ├── Rock_normal.png
