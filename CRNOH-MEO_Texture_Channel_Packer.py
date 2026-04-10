@@ -183,7 +183,7 @@ def batch_pack_br(input_folder: str, output_folder: str):
       if "basecolor" in maps and "roughness" in maps:
          texture_folder = os.path.join(output_folder, key)
          os.makedirs(texture_folder, exist_ok=True)
-         output_path = os.path.join(texture_folder, f"{key}_packed_BR.TGA")
+         output_path = os.path.join(texture_folder, f"{key}_packed_CR.TGA")
       
          pack_basecolor_roughnes(
            base_color_path=maps["basecolor"],
