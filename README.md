@@ -1,4 +1,4 @@
-# CRNOH / MEO Texture Channel Packer
+# CRNOH / MEO Batch Texture Channel Packer
 
 A batch texture channel packing tool for **Unreal Engine 5** material workflows. Drop your raw texture maps in a folder, run the script, and get packed `.TGA` files ready to import — no manual Photoshop channel work needed.
 
