@@ -20,6 +20,8 @@ Scans a folder for texture maps and automatically packs them into optimized chan
 
 ---
 
+https://youtu.be/gvOUl2ueoOA?si=80tPINF2DCzpg7Uf
+
 ## Folder Setup
 
 Place your textures in the **same folder** as the script. Textures must follow this naming convention:
